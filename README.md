@@ -16,7 +16,7 @@ My work bridges enterprise systems with modern AI and cloud technologies.
 ---
 
 ## 🚀 Featured Projects
-- 🧭 [**VocatiQ**](https://pythonanywhere.com/ia/start) — AI-powered vocational guidance platform using RIASEC and semantic embeddings.  
+- 🧭 [**VocatiQ**](https://ezabalat.pythonanywhere.com/ia/start) — AI-powered vocational guidance platform using RIASEC and semantic embeddings.  
 
 
 ## 🧰 Tech Stack
